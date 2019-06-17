@@ -4,4 +4,6 @@
 https://sasagugu.github.io/Gustoso/
 
 
-Free to use as a template
+Feel free to use as a template.
+
+Developed exclusively for practice.
